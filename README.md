@@ -35,9 +35,8 @@ Indicadores
        ↓
 Reportes gráficos
 ```
+## Análisis realizados
 
-
-##Análisis realizados
 El proyecto incluye análisis de:
 
 Ventas mensuales.
@@ -45,8 +44,7 @@ Ventas anuales.
 Ventas por cliente.
 Ventas por producto.
 Ventas por servicio.
-
-##Tecnologías
+Tecnologías
 Python
 Pandas
 NumPy
@@ -54,7 +52,7 @@ Matplotlib
 Excel
 CSV
 
-##Estructura
+## Estructura
 SALES-DATA-AUTOMATION/
 ├── data/
 │   ├── raw/
@@ -64,7 +62,7 @@ SALES-DATA-AUTOMATION/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-##Scripts principales
+## Scripts principales
 generate_sales_data.py
 
 Genera un conjunto de datos ficticios de ventas y lo almacena en formato Excel.
@@ -97,7 +95,7 @@ create_reports.py
 
 Genera los reportes gráficos del proyecto.
 
-##Reportes
+## Reportes
 Ventas por año
 
 Evolución mensual
@@ -106,7 +104,7 @@ Ventas por cliente
 
 Ventas por producto
 
-##Ejecución
+## Ejecución
 
 Instalar las dependencias:
 
@@ -120,7 +118,7 @@ Procesar los datos:
 
 python src/process_sales.py
 
-Ejecutar los análisis:
+## Ejecutar los análisis:
 
 python src/monthly_analysis.py
 python src/yearly_analysis.py
@@ -128,16 +126,16 @@ python src/customer_analysis.py
 python src/product_analysis.py
 python src/service_analysis.py
 
-Generar los reportes:
+## Generar los reportes:
 
 python src/create_reports.py
-##Aplicación profesional
+Aplicación profesional
 
 Este proyecto representa una versión demostrativa de tareas de automatización y análisis de información comercial.
 
 El objetivo es mostrar la capacidad para trabajar con datos estructurados, automatizar procesos de preparación y transformación, generar indicadores y facilitar la consulta de información mediante reportes.
 
-##Autor
+## Autor
 
 Axel Valle Quispe
 
