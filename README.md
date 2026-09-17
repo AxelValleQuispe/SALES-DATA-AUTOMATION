@@ -55,6 +55,7 @@ Ventas por servicio.
 - CSV
 
 ## Estructura
+```text
 SALES-DATA-AUTOMATION/
 ├── data/
 │   ├── raw/
@@ -64,6 +65,7 @@ SALES-DATA-AUTOMATION/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 ## Scripts principales
 generate_sales_data.py
 
