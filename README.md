@@ -44,13 +44,15 @@ Ventas anuales.
 Ventas por cliente.
 Ventas por producto.
 Ventas por servicio.
-Tecnologías
-Python
-Pandas
-NumPy
-Matplotlib
-Excel
-CSV
+
+## Tecnologías
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Excel
+- CSV
 
 ## Estructura
 SALES-DATA-AUTOMATION/
